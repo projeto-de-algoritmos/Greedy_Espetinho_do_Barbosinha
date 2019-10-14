@@ -11,7 +11,7 @@
 
 ## Sobre 
 Nosso projeto se resume a resolver o problema Espetinho do Barbosinha da Seletiva da UnB
-![LINK](https://codeforces.com/group/btcK4I5D5f/contest/244688/problem/F)
+[LINK](https://codeforces.com/group/btcK4I5D5f/contest/244688/problem/F)
 ![Tentativas](/img/AC.png)
 
 ## Screenshots
